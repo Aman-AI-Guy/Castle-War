@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Pygame](https://img.shields.io/badge/Pygame-2.x-green?logo=pygame)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 **Castle War** is a head-to-head 2D strategy game built with **Pygame**. Spawn units, manage resources, and destroy your enemy's barracks in an epic pixel-art battle!
 
