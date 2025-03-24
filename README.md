@@ -6,9 +6,6 @@
 
 **Castle War** is a head-to-head 2D strategy game built with **Pygame**. Spawn units, manage resources, and destroy your enemy's barracks in an epic pixel-art battle!
 
-<div align="center">
-  <img src="assets/preview.png" alt="Castle War Screenshot" width="600"/>
-</div>
 
 ---
 
